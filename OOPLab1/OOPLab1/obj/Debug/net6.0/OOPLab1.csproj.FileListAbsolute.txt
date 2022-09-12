@@ -1,0 +1,15 @@
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.csproj.AssemblyReference.cache
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.AssemblyInfoInputs.cache
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.AssemblyInfo.cs
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/OOPLab1/OOPLab1/bin/Debug/net6.0/OOPLab1
+/Users/alex/Projects/OOPLab1/OOPLab1/bin/Debug/net6.0/OOPLab1.deps.json
+/Users/alex/Projects/OOPLab1/OOPLab1/bin/Debug/net6.0/OOPLab1.runtimeconfig.json
+/Users/alex/Projects/OOPLab1/OOPLab1/bin/Debug/net6.0/OOPLab1.dll
+/Users/alex/Projects/OOPLab1/OOPLab1/bin/Debug/net6.0/OOPLab1.pdb
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.dll
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/refint/OOPLab1.dll
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.pdb
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/OOPLab1.genruntimeconfig.cache
+/Users/alex/Projects/OOPLab1/OOPLab1/obj/Debug/net6.0/ref/OOPLab1.dll
