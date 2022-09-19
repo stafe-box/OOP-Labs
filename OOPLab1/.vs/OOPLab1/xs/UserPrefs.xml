@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{9EC61FC5-A9D1-43BD-81A6-8B9C2B86B0E9}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.OOPLab1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPLab1/Program.cs">
+    <Files>
+      <File FileName="OOPLab1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPLab1" expanded="True">
+            <Node name="OOPLab1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OOPLab1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>

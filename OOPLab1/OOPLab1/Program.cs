@@ -4,8 +4,9 @@ namespace lab1
 {
     public abstract class Shape
     {
-        public int Size { get; set; }
+        protected int _size;
 
+        public int Size { get { return _size; } set { _size = value; } }
 
         public virtual int Area()
         {
@@ -27,7 +28,7 @@ namespace lab1
     {
         public override int Area()
         {
-            return Size * Size;
+            return _size * _size;
         }
 
         public override int Volume()
@@ -37,7 +38,7 @@ namespace lab1
 
         public override int Perimetr()
         {
-            return Size*4;
+            return _size*4;
         }
     }
 
@@ -45,17 +46,17 @@ namespace lab1
     {
         public override int Area()
         {
-            return Size*Size*6;
+            return _size * _size * 6;
         }
 
         public override int Volume()
         {
-            return Size*Size*Size;
+            return _size * _size * _size;
         }
 
         public override int Perimetr()
         {
-            return Size * 12;
+            return _size * 12;
         }
     }
 
@@ -66,7 +67,7 @@ namespace lab1
             Console.Write("enter demention: ");
             Shape Oleg = new Square();
             Shape Grigoriy = new Cube();
-            Oleg.Size = Convert.ToInt32(Console.ReadLine());
+            Oleg.Size = (Convert.ToInt32(Console.ReadLine()));
             Grigoriy.Size = Oleg.Size;
             Console.WriteLine($"\nSquare: S = {Oleg.Area()}; P = {Oleg.Perimetr()}\n");
             Console.WriteLine($"Cube: S = {Grigoriy.Area()}; P = {Grigoriy.Perimetr()}; V = {Grigoriy.Volume()}\n");
